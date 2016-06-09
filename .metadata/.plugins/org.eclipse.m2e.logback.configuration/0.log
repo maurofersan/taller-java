@@ -7483,3 +7483,37 @@ java.lang.NullPointerException: null
 2016-06-09 01:39:43,793 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2016-06-09 01:39:53,544 [Worker-123] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspaces\java\utilitario
 2016-06-09 01:39:53,544 [Worker-123] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-06-09 06:33:06,192 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 06:33:06,194 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 06:33:06,195 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 06:33:06,195 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 06:33:19,588 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 06:33:19,588 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 06:33:19,589 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 06:33:19,589 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 06:34:05,498 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 06:34:05,499 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 06:34:05,500 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 06:34:05,501 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 06:34:43,748 [Worker-152] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-06-09 06:34:44,647 [Worker-152] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mauro:utilitario:1.2 @ D:\workspaces\java\utilitario\pom.xml.
+2016-06-09 06:34:46,103 [Worker-152] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /utilitario/src/main/java
+2016-06-09 06:34:46,104 [Worker-152] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /utilitario/src/main/resources
+2016-06-09 06:34:46,105 [Worker-152] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /utilitario/src/test/java
+2016-06-09 06:34:46,105 [Worker-152] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /utilitario/src/test/resources
+2016-06-09 06:34:46,398 [Worker-152] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-06-09 06:34:46,621 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 06:34:46,622 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 06:34:46,623 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 06:34:46,623 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 06:35:10,549 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 06:35:10,550 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 06:35:10,552 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 06:35:10,553 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 06:35:22,486 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 06:35:22,486 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 06:35:22,488 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 06:35:22,488 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 06:37:19,196 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-06-09 06:37:24,544 [Worker-151] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspaces\java\utilitario
+2016-06-09 06:37:24,544 [Worker-151] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package

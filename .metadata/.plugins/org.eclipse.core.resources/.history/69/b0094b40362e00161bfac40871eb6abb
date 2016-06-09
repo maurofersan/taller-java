@@ -163,10 +163,12 @@ public class StringUtil {
 			if (Character.isUpperCase(cadena.charAt(i))) {
 
 				char upperCase = Character.toLowerCase(cadena.charAt(i));
+//				String stringUpperCase = String.valueOf(upperCase);
 				resultado += upperCase;
 
 			} else {
 				char lowerCase = Character.toUpperCase(cadena.charAt(i));
+//				String stringLowerCase = String.valueOf(lowerCase);
 				resultado += lowerCase;
 			}
 		}

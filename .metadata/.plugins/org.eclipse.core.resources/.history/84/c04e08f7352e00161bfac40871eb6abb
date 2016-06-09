@@ -163,11 +163,13 @@ public class StringUtil {
 			if (Character.isUpperCase(cadena.charAt(i))) {
 
 				char upperCase = Character.toLowerCase(cadena.charAt(i));
+//				String stringUpperCase = String.valueOf(upperCase);
 				resultado += upperCase;
 
 			} else {
 				char lowerCase = Character.toUpperCase(cadena.charAt(i));
-				resultado += lowerCase;
+				String stringLowerCase = String.valueOf(lowerCase);
+				resultado += stringLowerCase;
 			}
 		}
 		return resultado;
@@ -193,10 +195,12 @@ public class StringUtil {
 			
 			if(Character.isWhitespace(cadenaTrim.charAt(i)) && esEspacio) {
 				
-				resultado += cadenaTrim.charAt(i);
+				String space = String.valueOf(cadenaTrim.charAt(i));
+				resultado += space;
 				esEspacio = false;
 			} else if(!Character.isWhitespace(cadenaTrim.charAt(i))){
-				resultado += cadenaTrim.charAt(i);
+				String caracter = String.valueOf(cadenaTrim.charAt(i));
+				resultado += caracter;
 				esEspacio = true;
 			}
 		}
