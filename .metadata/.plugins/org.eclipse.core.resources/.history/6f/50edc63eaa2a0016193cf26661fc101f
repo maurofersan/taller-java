@@ -1,0 +1,19 @@
+package utilitario;
+
+import org.junit.Test;
+
+import com.mauro.utilitario.util.StringUtil;
+
+import static org.junit.Assert.*;
+
+public class StringUtilTest {
+	
+	@Test
+	public void capitalizeTest() {
+		
+		assertEquals(StringUtil.capitalize("java"), "Java"); //equals
+		assertTrue(StringUtil.capitalize("hOla").equals("Hola"));
+		assertEquals(StringUtil.capitalize("www"), "Www");
+		assertEquals(StringUtil.capitalize("sss"), "Sssss");
+	}
+}

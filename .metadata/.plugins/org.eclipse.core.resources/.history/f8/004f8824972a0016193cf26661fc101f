@@ -1,0 +1,8 @@
+package com.mauro.ejercicio01.test;
+
+public class PruebaTimes {
+	public static void main(String[] args) {
+		
+		
+	}
+}

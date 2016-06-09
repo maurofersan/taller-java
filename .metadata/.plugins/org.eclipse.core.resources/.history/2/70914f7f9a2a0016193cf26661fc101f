@@ -1,0 +1,14 @@
+package com.mauro.ejercicio01.test;
+
+import com.mauro.utilitario.util.StringUtil;
+
+public class PruebaReverse {
+
+	public static void main(String[] args) {
+		
+		StringUtil.reverse("java");
+		StringUtil.reverse("hola");
+
+	}
+
+}
