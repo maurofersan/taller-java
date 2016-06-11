@@ -26,7 +26,6 @@ public class StringUtilTest {
 		assertEquals(StringUtil.capitalize("sss"), "Sss");
 		assertEquals(StringUtil.capitalize(" "), " ");
 		assertEquals(StringUtil.capitalize(""), "");
-		
 		assertNull(StringUtil.capitalize(null));
 	}
 	
