@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Built-By: Mauro Fernandez
-Class-Path: lib/utilitario-1.2.jar
-Empresa: UNAC Caￃﾱete
-Build-Jdk: 1.8.0_20
-Created-By: Maven Integration for Eclipse
-Main-Class: com.mauro.ejercicio01.test.Prueba
-
