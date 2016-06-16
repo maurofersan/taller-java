@@ -9,7 +9,5 @@ public class Prueba {
 		System.out.println(StringUtil.truncate("java", 10));
 		System.out.println(StringUtil.truncate("universidad", 2));
 		System.out.println(StringUtil.truncate("laptop", 6));
-		
-		
 	}
 }
